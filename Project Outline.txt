@@ -1,0 +1,40 @@
+Universal Coding Library
+Copyright (C) 2022 Levi Taliaferro
+  
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+Scope
+
+1) Lightweight Linux distro similar to Puppy/Pybian with
+	a) a web browser with modern codecs, 
+	b)audio, microphone and video drivers if equipment exists
+	c)common file type compatability with open source or custom software
+	d)a lightweight Integrated Development Environment (IDE) capable of running/compiling multiple languages
+	e)file storage and Git/other means of upload for same
+	f) Library of offline coding tutorials and resources, comprehensive with everything needed for self-learning
+	g) Total file size of less than 2gb and capable of running on 1995-spec machines and Raspberry Pi
+
+2) Android Application with
+	a) a lightweight Integrated Development Environment (IDE) capable of running/compiling multiple languages
+	b) Library of offline coding tutorials and resources, comprehensize with everything needed for self-learning
+	c) Total file size of less than 12MB and specs consistent with stable deployment on Android 4.4 Kitkat
+
+3) JVM installer with 
+		a) a lightweight Integrated Development Environment (IDE) capable of running/compiling multiple languages
+		b) Library of offline coding tutorials and resources, comprehensize with everything needed for self-learning
+		c) File storage for retrieval of common file types  
+		d) Total file size of less than 12MB and specs consistent with stable deployment on Smart TV or similar from 2005
+
+4) Assembly Translation of JVM installer for modifcaion into exotic/minimalist applications (IE Graphing Calculators, command-line only pre-1990s terminals, Cray II, Gameboy Color etc)  
+	
